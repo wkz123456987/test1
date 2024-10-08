@@ -1,42 +1,4 @@
-<!--
-doc/src/sgml/ref/pg_dump.sgml
-PostgreSQL documentation
--->
 
-<refentry id="app-pgdump">
-<!-- pgdoc-cn_start sig_en=7535625877e668dd4c6e53a040ce36c1 sig_cn_org=None source=14.1 
- <indexterm zone="app-pgdump">
-  <primary>pg_dump</primary>
- </indexterm>
-________________________________________________________-->
- <indexterm zone="app-pgdump">
-  <primary>pg_dump</primary>
- </indexterm>
-<!-- pgdoc-cn_end sig_en=7535625877e668dd4c6e53a040ce36c1 -->
-
- <refmeta>
-  <refentrytitle><application>pg_dump</application></refentrytitle>
-  <manvolnum>1</manvolnum>
-  <refmiscinfo>Application</refmiscinfo>
- </refmeta>
-
-<!-- pgdoc-cn_start sig_en=5e523dd5afd98adcb5b6ab588e7181b3 sig_cn_org=None source=14.1 
- <refnamediv>
-  <refname>pg_dump</refname>
-
-  <refpurpose>
-   extract a <productname>PostgreSQL</productname> database into a script file or other archive file
-  </refpurpose>
- </refnamediv>
-________________________________________________________-->
- <refnamediv>
-  <refname>pg_dump</refname>
-
-  <refpurpose>
-   把<productname>PostgreSQL</productname>PostgreSQL数据库的数据抽取为一个脚本文件或其他归档文件
-  </refpurpose>
- </refnamediv>
-<!-- pgdoc-cn_end sig_en=5e523dd5afd98adcb5b6ab588e7181b3 -->
 
  <refsynopsisdiv>
   <cmdsynopsis>
